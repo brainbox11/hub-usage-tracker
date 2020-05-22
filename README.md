@@ -1,4 +1,4 @@
-# test
+# Hub Tracker
 
 ## Project setup
 ```
